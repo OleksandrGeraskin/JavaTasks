@@ -2,7 +2,7 @@ package JavaLabs.Lab9;
 
 import java.util.Scanner;
 
-public class lab9_2
+public class Lab9_2
 {
     public static String processSentence(String sentence)
     {

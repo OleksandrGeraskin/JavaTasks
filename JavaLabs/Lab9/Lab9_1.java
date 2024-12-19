@@ -2,7 +2,7 @@ package JavaLabs.Lab9;
 
 import java.util.Scanner;
 
-public class lab9_1
+public class Lab9_1
 {
     public static int hexStringToInt(String input)
     {
